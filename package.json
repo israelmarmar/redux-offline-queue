@@ -24,7 +24,8 @@
     "lodash": "^4.17.13",
     "redux-persist": "^6.0.0",
     "reduxsauce": "^1.1.2",
-    "uuid": "^8.2.0"
+    "uuidv4": "^6.2.6",
+    "name1" : "git+https://github.com/israelmarmar/redux-offline-queue.git"
   },
   "devDependencies": {
     "@types/redux": "^3.6.0",
@@ -40,5 +41,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.18.3",
     "jest": "^25.1.0"
-  }
+  },
+  "_id": "redux-offline-queue@1.1.1"
 }
